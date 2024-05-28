@@ -7,5 +7,12 @@
 4. Generate another wordcloud image based on the contents of the text.
 5. Compare the two images.
 
+## Second Meeting: 5.28
+### Brief Understanding about the story :
+1. Show students video of the story.
+2. Students take comprehension test with multiple options.
+3. 
+
+
 
    
