@@ -1,4 +1,6 @@
 # G1-finalproject
+## Assignment of roles
+
 ## First Meeting: 5.21
 ### Class Opening: 
 1. Show students Text-to-Image of Hugging Face.
@@ -11,7 +13,10 @@
 ### Brief Understanding about the story :
 1. Show students video of the story.
 2. Students take comprehension test with multiple options.
-3. 
+
+## Third Meeting: 6.4
+
+
 
 
 
