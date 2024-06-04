@@ -35,6 +35,12 @@ Maria’s victory was more than just a personal achievement; it inspired the ent
 Maria continued to grow as an artist, always remembering the tree that once gave her hope. She learned that with belief, hard work, and a little bit of magic, dreams really can come true.
 And so, the Tree of Dreams stood not only as a symbol of Maria’s success but as a beacon of hope for everyone in Lila, reminding them that sometimes, the oldest stories hold the deepest truths.
 
+|Process|Content|
+|----|-----------------------|
+|1.Watch the video||
+|2.Check Understading||
+|3.Check Vocabulary||
+|||
 
 
 
