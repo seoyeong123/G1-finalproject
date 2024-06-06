@@ -38,9 +38,9 @@ And so, the Tree of Dreams stood not only as a symbol of Maria’s success but a
 ## Lesson plan
 |Process|Content|
 |----|-----------------------|
-|1.Preview the content|Watch the video|
-|2.Check Understading|Comprehension test with multiple options|
-|3.Learn Vocabulary|Using Quizlet|
+|1. Preview the content|Watch the video|
+|2. Check Understading|Comprehension test with multiple options|
+|3. Learn Vocabulary|Using Quizlet|
 |4. Review Grammar Learing|5 questions to check participles understanding|
 
 
