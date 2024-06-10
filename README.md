@@ -19,7 +19,8 @@ We made a video of story and questions to check the understanding about story.
 2. Students take comprehension test with multiple options.
 
 ## Third Meeting: 6.4
-We discussed the main activity and decided to focus on the vocabulary.
+We discussed the main activity.
+Students will learn vocabulary and review grammar.
 
 # Our story
 ## The Tree of Dreams 🌳
@@ -38,10 +39,10 @@ And so, the Tree of Dreams stood not only as a symbol of Maria’s success but a
 ## Lesson plan
 |Process|Content|
 |----|-----------------------|
-|1. Preview the content|Watch the video|
-|2. Check Understading|Comprehension test with multiple options|
-|3. Learn Vocabulary|Using Quizlet|
-|4. Review Grammar Learing|5 questions to check participles understanding|
+|1. Learning vocabulary|Step by step voca test|
+|2. Know about the story|Watching the video|
+|3. Check Understading|Comprehension test with multiple options|
+|4. Review Grammar Learing|Quizs to check participles understanding|
 
 
 
