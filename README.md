@@ -42,14 +42,12 @@ We discussed the main activity.
 |Word list|Meaning|
 |----|-------|
 |Vibrant|활기찬|
-|Ancient|고대의|
+|Ancient|아주 오래된|
 |Dismiss|무시하다|
 |Scholarship|장학금|
 |Competition|대회|
 |Skeptics|의심하는 사람|
 |Donation|기부|
-|Supply|재료|
-|Submit|제출하다|
 
 ## Fourth Meeting: 6.9
 We discussed the conclusion of the class. 
