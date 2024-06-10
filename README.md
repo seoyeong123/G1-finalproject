@@ -11,16 +11,23 @@ We discussed about the opening of the class.
 3. Create a wordcloud image based on the submitted answers.
 4. Generate another wordcloud image based on the contents of the text.
 5. Compare the two images.
-
+   ➡︎ We changed this plan to class conclusion. (on 6.4)
+    (Student will make summarizing sentences using words in these two images)
+ 
 ## Second Meeting: 5.28
 We made a video of story and questions to check the understanding about story.
 ### Brief Understanding about the story :
-1. Show students video of the story.
-2. Students take comprehension test with multiple options.
+1. Show students video of the story. (Bomin makes video using steve AI)
+2. Students take comprehension test with multiple options. (Seoyeong makes test questions)
+
 
 ## Third Meeting: 6.4
 We discussed the main activity.
 Students will learn vocabulary and review grammar.
+|Voca|Grammar|
+|1. Match meaning and the words|Write the appropriate form of verb|
+|2. Spelling practice playing hangman game|Change the sentences to participial construction|
+|3. Listen and write words|----|
 
 # Our story
 ## The Tree of Dreams 🌳
@@ -39,11 +46,11 @@ And so, the Tree of Dreams stood not only as a symbol of Maria’s success but a
 ## Lesson plan
 |Process|Content|
 |----|-----------------------|
-|1. Learning vocabulary|Step by step voca test|
-|2. Know about the story|Watching the video|
+|1. Learn vocabulary|Step by step voca test|
+|2. Learn about the story|Watching the video|
 |3. Check Understading|Comprehension test with multiple options|
 |4. Review Grammar Learing|Quizs to check participles understanding|
-
+|5. Summarize Today's Class|Post summary on Padlet|
 
 
 
