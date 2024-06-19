@@ -19,7 +19,7 @@
 | Group 1| 4.22          | 4.06           | 4.44          | 4.17           | 4.44        | 3.56             | 3.94           | 4.39        | 3.44            | 4.11             |
 
 
-![Score summary](https://github.com/MK316/Spring2024/blob/main/DLTESOL/data/G1-score.png)
+![Score summary](https://github.com/MK316/Spring2024/blob/main/DLEE/Project/DLEE_G01.png)
 
 ## [2] Essay feedback 1: _What do you think are the most valuable lessons from that group's presentation?_
 
