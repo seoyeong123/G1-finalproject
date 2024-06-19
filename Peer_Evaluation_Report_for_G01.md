@@ -1,14 +1,13 @@
 # 💙 Peer Evaluation & Presentation Review for Group 1 (0619, by MK316)
 
-+ Based on the peer feedback received after teaching the digital literacy and English education course, it is clear that the innovative use of coding to integrate familiar games like Hangman into the curriculum was highly appreciated. The students found the incorporation of a Hangman game, coded for classroom use, particularly engaging. This approach not only made the lessons more interactive but also effectively drew student participation, especially in group activities.
+Based on the peer feedback received after teaching the digital literacy and English education course, it is clear that the innovative use of coding to integrate familiar games like Hangman into the curriculum was highly appreciated. The audience found the incorporation of a Hangman game, coded for classroom use, particularly engaging. This approach not only made the lessons more interactive but also effectively drew student participation, especially in group activities.
 
 + The integration of multiple apps into group activities was another highlight, providing a well-rounded learning experience. Creating videos to accompany storytelling sessions was noted as a standout feature, making the lessons more relatable and easier for all students to engage with. The simplicity and accessibility of these activities ensured high levels of student involvement.
 
 + The use of the Hangman game to conduct vocabulary tests was both innovative and engaging, capturing the students' interest and enhancing their focus. This method of integrating technology into traditional word activities was seen as a refreshing and effective way to stimulate learning.
-
 + The effort put into coding the Hangman game to make it function like a real game was recognized and appreciated. It demonstrated a creative approach to making learning fun and interactive. The structured progression through word learning, story learning, story review, and grammar practice provided a comprehensive learning experience, ensuring students' understanding and retention.
 
-+ Overall, the feedback indicates that combining coding with educational activities, particularly through familiar and engaging games like Hangman, significantly enhanced the learning experience. The creative use of digital tools to transform traditional classroom activities into interactive digital experiences was highly valued by the students. 😍
+Overall, the feedback indicates that combining coding with educational activities, particularly through familiar and engaging games like Hangman, significantly enhanced the learning experience. The creative use of digital tools to transform traditional classroom activities into interactive digital experiences was highly valued by the students. 😍
 
 
 ## [1] Quantitative summary of each aspect (Q1~Q10)
@@ -16,7 +15,7 @@
 |Questions|Q1|Q2|Q3|Q4|Q5|Q6|Q7|Q8|Q9|Q10|Total mean (SD)|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |Category|Alignment|Integration|Engagement|Stimulation|Support|Accessibility|Integration|Autonomy|Adaptability|Presenation||
-| Group 1| 4.22          | 4.06           | 4.44          | 4.17           | 4.44        | 3.56             | 3.94           | 4.39        | 3.44            | 4.11             |
+| Group 1| 4.22          | 4.06           | 4.44          | 4.17           | 4.44        | 3.56             | 3.94           | 4.39        | 3.44            | 4.11             |4.08 (0.83)|
 
 
 ![Score summary](https://github.com/MK316/Spring2024/blob/main/DLEE/Project/DLEE_G01.png)
